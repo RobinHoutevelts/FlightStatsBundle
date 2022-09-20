@@ -1,5 +1,5 @@
 {
-    "name": "RobinHoutevelts/flightstats-bundle",
+    "name": "robinhoutevelts/flightstats-bundle",
     "version": "1.2.4",
     "description": "This Bundle provides a wrapper for the FlightStats API",
     "keywords": ["rest", "api", "flight", "flightstats"],
