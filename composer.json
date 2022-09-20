@@ -10,12 +10,15 @@
         {
             "name": "Emmanuel Veyrat",
             "email": "emmanuel@spiicy.io"
+        },
+        {
+            "name": "Robin Houtevelts",
+            "email": "robin@wieni.be"
         }
     ],
 
     "require": {
         "php": ">=5.4",
-        "symfony/framework-bundle": ">=2.7||~3.0||~4.0",
         "guzzlehttp/guzzle": "^6.2"
     },
 
